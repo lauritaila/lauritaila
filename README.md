@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Laura Avila
 
-💻 **Software Engineer** | 📱 **Full-Stack Developer** | 🚀 **Entrepreneur**  
+💻 **Computer Science Engineer** | 📱 **Full-Stack Developer** | 🚀 **Entrepreneur**  
 
 Welcome to my GitHub profile! I am a **Computer Science Engineer** graduated from **Rafael Belloso Chacín University** (Maracaibo, Venezuela) in 2021. Since then, I have been working on developing applications and websites, gaining experience in various technologies and frameworks.
 
