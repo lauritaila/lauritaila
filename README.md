@@ -62,7 +62,7 @@ I am passionate about software development, specializing in **React, Next.js, an
 
 If you'd like to collaborate on a project or just chat about technology, feel free to reach out:
 
-- 📧 **Email**: [lauraavilasilv@github.com](mailto:lauraavilasilv@example.com)
+- 📧 **Email**: [lauraavilasilv@gmail.com](mailto:lauraavilasilv@gmail.com)
 - 💼 **LinkedIn**: [My Profile](https://www.linkedin.com/in/laura-avila-silva-403b841b6)
 <!-- - 🌐 **Portfolio**: [lauraavila.com](https://lauraavila.com) -->
 
